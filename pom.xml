@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.57.224.93:9000/</sonar.host.url>
+		<sonar.host.url>http://54.176.255.215:9000/</sonar.host.url>
 		<sonar.login>squ_ea014f79e662d4fc771af73e32aeb307a83fe2fe</sonar.login> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>vijith reddy Releases Nexus Repository</name>
-	      <url>http://54.219.166.149:8081/repository/release/</url>
+	      <url>http://13.57.34.227:8081/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vijith reddy Snapshot Nexus Repository </name>
-	      <url>http://54.219.166.149:8081/repository/snapshort/</url>
+	      <url>http://13.57.34.227:8081/repository/snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
