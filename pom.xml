@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vijith reddy Snapshot Nexus Repository </name>
-	      <url>http://54.219.166.149:8081/repository/snapshot/</url>
+	      <url>http://54.219.166.149:8081/repository/snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
